@@ -1,3 +1,5 @@
+package homeTask01;
+
 public class Employee {
     private String fullName;
     private String position;
